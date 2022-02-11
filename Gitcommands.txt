@@ -1,0 +1,21 @@
+//initialization
+git init
+//adding files
+git add .
+//for local commit
+git commit -m 'mesaage'
+//link repo
+git remote add origin url
+//for push code
+git push origin master
+//For Clone And Download
+git clone url
+//only for first Time you set email and name so you should
+write this command after "git init" .
+// Set the email address for all repositories
+git config --global user.email "smarsalanshah125@gmail.com"
+//Set the user name for all repositories
+git config --global user.name "SyedMuhammadArsalanShah"
+//for copy & paste in git
+Ctrl + Insert (Copy)
+Shift + Insert (Paste)
